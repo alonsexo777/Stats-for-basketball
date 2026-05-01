@@ -1,0 +1,1 @@
+when you start the app, for putting the names in every position, double click the team you want to put in the names
